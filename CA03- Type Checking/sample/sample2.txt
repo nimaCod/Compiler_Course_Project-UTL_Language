@@ -1,0 +1,3 @@
+Line:11:Unsupported operand type for operator PLUS
+Line:12:Unsupported operand type for operator PLUS
+Line:12:Condition must be bool

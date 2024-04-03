@@ -1,0 +1,4 @@
+Line:33:Unsupported operand type for operator MULT
+Line:33:Condition must be bool
+Line:39:Unsupported operand type for operator LT
+Line:39:Condition must be bool
